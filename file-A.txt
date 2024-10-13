@@ -1,7 +1,8 @@
 Hello 
 this
-is
+was
 created 
 by
 huzefa.
-new line added by huzefa
+
+date +%A,%T
